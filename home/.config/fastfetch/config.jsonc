@@ -1,0 +1,38 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": "devuan_small",
+  "modules": [
+    {
+      "type": "os",
+      "key": "os"
+    },
+    {
+      "type": "kernel",
+      "key": "kernel"
+    },
+    {
+      "type": "uptime",
+      "key": "up"
+    },
+    {
+      "type": "packages",
+      "key": "pkgs"
+    },
+    {
+      "type": "wm",
+      "key": "wm"
+    },
+    {
+      "type": "cpu",
+      "key": "cpu"
+    },
+    {
+      "type": "gpu",
+      "key": "gpu"
+    },
+    {
+      "type": "memory",
+      "key": "mem"
+    },
+  ]
+}
